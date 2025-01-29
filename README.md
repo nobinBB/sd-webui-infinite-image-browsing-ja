@@ -1,5 +1,4 @@
 
-
 ---------------------------------------------------- orgin ----------------------------------------------------
 
 > 🌍 i18n Advisory: Some translations may be incomplete or inaccurate. Pull requests are welcome for improvements!
@@ -178,6 +177,9 @@ https://user-images.githubusercontent.com/25872019/230768207-daab786b-d4ab-489f-
 ### Dark mode
 
 <img width="768" alt="image" src="https://user-images.githubusercontent.com/25872019/230064879-c95866ac-999d-4d4b-87ea-3e38c8479415.png">
+=======
+# -sd-webui-infinite-image-browsing-ja
+ sd-webui-infinite-image-browsing ja
 =======
 # -sd-webui-infinite-image-browsing-ja
  sd-webui-infinite-image-browsing ja
